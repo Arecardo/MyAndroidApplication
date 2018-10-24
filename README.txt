@@ -1,5 +1,5 @@
 # MyAndroidApplication
-This is Xinrun Zhang's Android Application
+This is Xinrun Zhang's Android Application in Software Engineering, fall, 2017
 1.Implement the App with the UI similar to calc_UI.png. You may start from the empty project attached with the assignment.👍Checked
 2.An Operand can be a number e.g. 12, 23.4, or expression e.g. 12+34, 10*(2+3)😔Can't do this
 3.For division, you must take care of divide by zero condition.👍Checked
